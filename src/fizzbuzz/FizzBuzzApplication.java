@@ -11,9 +11,7 @@ package fizzbuzz;
 public class FizzBuzzApplication {
   public static void main(String[] args) {
     FizzBuzzFinder fizzBuzzFinder = new FizzBuzzFinder();
-    Integer number = 45;
-    System.out.println(fizzBuzzFinder.isMultiple(number, 3));
-    System.out.println(fizzBuzzFinder.getFizzBuzz(number, 3, 5));
+    fizzBuzzFinder.getFizzBuzz(13);
 
   }
 }

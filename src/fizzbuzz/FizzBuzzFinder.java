@@ -1,23 +1,27 @@
 package fizzbuzz;
 
-public class FizzBuzzFinder implements Check {
+import fizzbuzz.check.Check;
+import fizzbuzz.check.CheckMultipleFive;
+import fizzbuzz.check.CheckMultipleThree;
+import fizzbuzz.check.CheckMultipleThreeAndFive;
 
-  @Override
-  public Boolean isMultiple(int number, int multiple) {
-    return number % multiple == 0;
-  }
+import java.util.Arrays;
+import java.util.List;
 
-  @Override
-  public String getFizzBuzz(int number, int multipleNumberOne, int multipleNUmberTwo) {
-    if (isMultiple(number, 3) && isMultiple(number, 5)) {
-      return "FizzBuzz";
+public class FizzBuzzFinder {
+
+  final List<Check> checks = Arrays.asList(new CheckMultipleThreeAndFive(), new CheckMultipleThree(), new CheckMultipleFive());
+
+  public String getFizzBuzz(int number) {
+    for (Check check : checks) {
+      if (check.isMultiple(number)) {
+        String name = check.getName();
+        System.out.println(name);
+        return check.getName();
+      }
     }
-    if (isMultiple(number, 3)) {
-      return "Fizz";
-    }
-    if (isMultiple(number, 5)) {
-      return "Buzz";
-    }
-    return "";
+    String message = number + " is not multiply of 3, 5 or both.";
+    System.out.println(message);
+    return message;
   }
 }
