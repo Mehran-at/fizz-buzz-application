@@ -1,4 +1,4 @@
-//Derek has learned a lot about programming lately and he decides to apply for a job as a junior developer. During the job interview he receives some sort of exercise called FizzBuzz.
+package fizzbuzz;//Derek has learned a lot about programming lately and he decides to apply for a job as a junior developer. During the job interview he receives some sort of exercise called FizzBuzz.
 //
 // Develop the following code:
 //      a. Define the isMultiple action that receives two numbers and returns true if the first number is divisible by the second. Otherwise it returns false.
