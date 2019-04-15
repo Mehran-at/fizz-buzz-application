@@ -8,15 +8,13 @@
       <change beforePath="$PROJECT_DIR$/../calculator-magnet-application/src/CalculatorMagnetApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../calculator-magnet-application/src/CalculatorMagnetApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../calculator-magnet-application/src/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../calculator-magnet-application/src/Manager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../calculator-magnet-application/src/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/../calculator-magnet-application/src/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fizzbuzz-application.iml" beforeDir="false" afterPath="$PROJECT_DIR$/fizzbuzz-application.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/fizzbuzz-application/FizzBuzzApplication.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/fizzbuzz-application/FizzBuzzFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fizzbuzz-application/fizzbuzz/FizzBuzzApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fizzbuzz-application/fizzbuzz/FizzBuzzApplication.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FizzBuzzApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FizzBuzzApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fizzbuzz/FizzBuzzApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FizzBuzzFinder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FizzBuzzFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fizzbuzz/FizzBuzzFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fizzbuzz/FizzBuzzFinderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fizzbuzz/FizzBuzzFinderTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,11 +25,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/fizzbuzz/FizzBuzzFinderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="137" column="35" lean-forward="true" selection-start-line="137" selection-start-column="35" selection-end-line="137" selection-end-column="35" />
+            <state relative-caret-position="281">
+              <caret line="79" column="4" lean-forward="true" selection-start-line="79" selection-start-column="4" selection-end-line="79" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -40,16 +41,16 @@
         <entry file="file://$PROJECT_DIR$/src/fizzbuzz/FizzBuzzApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" column="65" lean-forward="true" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
+              <caret line="15" column="65" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fizzbuzz/FizzBuzzFinder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+            <state relative-caret-position="255">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -57,25 +58,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fizzbuzz/Check.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/fizzbuzz/NumberAndMultiplyNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
-              <folding>
-                <element signature="e#396#397#0" expanded="true" />
-                <element signature="e#419#420#0" expanded="true" />
-                <element signature="e#403#404#0" expanded="true" />
-                <element signature="e#437#438#0" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
-                <element signature="e#510#511#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -102,13 +86,13 @@
         <option value="$PROJECT_DIR$/src/fizzbuzz/ParameterizedTest.java" />
         <option value="$PROJECT_DIR$/src/fizzbuzz/NumberAndMultiplyNumber.java" />
         <option value="$PROJECT_DIR$/src/fizzbuzz/FizzBuzzFinder.java" />
-        <option value="$PROJECT_DIR$/src/fizzbuzz/FizzBuzzFinderTest.java" />
         <option value="$PROJECT_DIR$/src/fizzbuzz/Check.java" />
         <option value="$PROJECT_DIR$/src/fizzbuzz/FizzBuzzApplication.java" />
+        <option value="$PROJECT_DIR$/src/fizzbuzz/FizzBuzzFinderTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="y" value="27" />
     <option name="width" value="776" />
     <option name="height" value="741" />
@@ -121,7 +105,60 @@
       <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fizzbuzz-application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fizzbuzz-application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fizzbuzz-application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fizzbuzz-application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fizzbuzz-application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fizzbuzz-application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fizzbuzz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fizzbuzz-application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fizzbuzz-application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fizzbuzz" type="462c0819:PsiDirectoryNode" />
+              <item name="Check" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="fizzbuzz-application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fizzbuzz-application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fizzbuzz" type="462c0819:PsiDirectoryNode" />
+              <item name="FizzBuzzApplication" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="fizzbuzz-application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fizzbuzz-application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fizzbuzz" type="462c0819:PsiDirectoryNode" />
+              <item name="FizzBuzzFinder" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="fizzbuzz-application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fizzbuzz-application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fizzbuzz" type="462c0819:PsiDirectoryNode" />
+              <item name="FizzBuzzFinderTest" type="1a9f42e2:ClassTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="true" />
@@ -130,7 +167,7 @@
     <property name="Repository.Attach.Sources" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555347626742" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555348716613" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -164,7 +201,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FizzBuzzApplication">
+  <component name="RunManager" selected="JUnit.FizzBuzzFinderTest.findFizzBuzzWorks">
     <configuration name="FizzBuzzApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fizzbuzz.FizzBuzzApplication" />
       <module name="fizzbuzz-application" />
@@ -243,9 +280,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FizzBuzzFinderTest.findFizzBuzzWorks" />
         <item itemvalue="Application.FizzBuzzApplication" />
         <item itemvalue="JUnit.FizzBuzzFinderTest" />
-        <item itemvalue="JUnit.FizzBuzzFinderTest.findFizzBuzzWorks" />
         <item itemvalue="JUnit.FizzBuzzFinderTest.testIsMultipleWorks" />
         <item itemvalue="JUnit.FizzBuzzFinderTest.findFizzBuzzTwoo" />
       </list>
@@ -266,14 +303,11 @@
       <workItem from="1554461310319" duration="138000" />
       <workItem from="1554487821155" duration="712000" />
       <workItem from="1554609706207" duration="71000" />
-      <workItem from="1555342242515" duration="5383000" />
+      <workItem from="1555342242515" duration="6472000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FizzBuzzFinderTest_testIsMultipleWorks - 2019.04.03 at 06h 06m 11s.xml">
-      <configuration name="FizzBuzzFinderTest.testIsMultipleWorks" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FizzBuzzFinderTest_testIsMultipleWorks - 2019.04.03 at 06h 07m 16s.xml">
       <configuration name="FizzBuzzFinderTest.testIsMultipleWorks" configurationId="JUnit" />
     </history-entry>
@@ -301,15 +335,18 @@
     <history-entry file="FizzBuzzFinderTest - 2019.04.03 at 06h 35m 12s.xml">
       <configuration name="FizzBuzzFinderTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FizzBuzzFinderTest_findFizzBuzzWorks - 2019.04.15 at 13h 18m 31s.xml">
+      <configuration name="FizzBuzzFinderTest.findFizzBuzzWorks" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18885000" />
+    <option name="totallyTimeSpent" value="19974000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.19410875" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19410875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -318,7 +355,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2279534" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.069883525" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -361,31 +398,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fizzbuzz/FizzBuzzFinderTest.java">
+    <entry file="file://$PROJECT_DIR$/src/fizzbuzz/Check.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="137" column="35" lean-forward="true" selection-start-line="137" selection-start-column="35" selection-end-line="137" selection-end-column="35" />
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fizzbuzz/FizzBuzzFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fizzbuzz/FizzBuzzApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="65" lean-forward="true" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
+          <caret line="15" column="65" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fizzbuzz/Check.java">
+    <entry file="file://$PROJECT_DIR$/src/fizzbuzz/FizzBuzzFinderTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fizzbuzz/FizzBuzzFinder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        <state relative-caret-position="281">
+          <caret line="79" column="4" lean-forward="true" selection-start-line="79" selection-start-column="4" selection-end-line="79" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
